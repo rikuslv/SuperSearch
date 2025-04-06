@@ -1,0 +1,112 @@
+        .card {
+            background: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            border-left: 5px solid #4a6ee0;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: absolute;
+            top: 27%;
+        }
+
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        .card h2 {
+            color: #2c3e50;
+            margin-top: 0;
+            margin-bottom: 15px;
+            font-size: 1.8rem;
+        }
+
+        .card p {
+            color: #555;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+
+
+        .btn {
+            display: inline-block;
+            background: #4a6ee0;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+
+        .card2 {
+            background: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            border-left: 5px solid #4a6ee0;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: absolute;
+            top: 27%;
+            left: 40%;
+        }
+        .card2 h2 {
+            color: #2c3e50;
+            margin-top: 0;
+            margin-bottom: 15px;
+            font-size: 1.8rem;
+        }
+        .card2:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.05);
+        }
+        .card2 h2 {
+            color: #2c3e50;
+            margin-top: 0;
+            margin-bottom: 15px;
+            font-size: 1.8rem;
+        }
+
+        .card2 p {
+            color: #555;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+
+
+        .card3 {
+            background: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            border-left: 5px solid #4a6ee0;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: absolute;
+            top: 27%;
+            left: 74%;
+        }
+        .card3 h2 {
+            color: #2c3e50;
+            margin-top: 0;
+            margin-bottom: 15px;
+            font-size: 1.8rem;
+        }
+        .card3:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.05);
+        }
+        .card3 h2 {
+            color: #2c3e50;
+            margin-top: 0;
+            margin-bottom: 15px;
+            font-size: 1.8rem;
+        }
+
+        .card3 p {
+            color: #555;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
